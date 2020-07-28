@@ -14,7 +14,7 @@ function App() {
 
 
   return (
-    <div >
+    <div>
       {name !== '' ?
         <Layout name={name} /> :
         <Login setName={setName} />
