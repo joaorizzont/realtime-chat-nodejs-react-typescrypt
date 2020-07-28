@@ -1,5 +1,6 @@
 # realtime-chat-nodejs-react-typescrypt
 
+![chatImage](https://media-exp1.licdn.com/dms/image/C4D22AQEQJb74ki8zRA/feedshare-shrink_2048_1536/0?e=1599091200&v=beta&t=J45V9ejdB3TobwsY0LixTYGxO3qI0EnJDDmMX3X5hXo)
 
 ### How to use
 
